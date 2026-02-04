@@ -1,1 +1,1 @@
-docker run -p 8000:8000 apianimal:v2
+docker run -p 8000:8000 apianimal:v3

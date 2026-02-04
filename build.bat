@@ -1,1 +1,1 @@
-docker build -t apianimal:v2 .
+docker build -t apianimal:v3 .
