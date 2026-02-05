@@ -1,6 +1,6 @@
 # API Detect Animals
 
-API FastAPI + YOLO11 pour détecter animaux et personnes dans une image.
+API FastAPI + Pytorch Wildlife pour détecter animaux et personnes dans une image.
 
 ## Build & Run
 
